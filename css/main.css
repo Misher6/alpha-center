@@ -4,6 +4,10 @@
     width: 100%;
     clear: both;
 }
+header {
+    width: 950px;
+    margin: 0 auto;
+}
 .container {
     width: 950px;
     margin: 0 auto;
@@ -151,4 +155,24 @@ a:hover {
         background: url(../img/slide11.jpg);
         animation-delay: 0s;
     }
- 
+table {
+    margin: auto;
+    display: inline-block;
+}
+h1 {
+    font-size: 35px;
+}
+th {
+    font-size: 70px;
+}
+sup {
+    font-size: 30px;
+}
+td {
+    font-size: 20px;
+}
+footer {
+    margin-top: 40px;
+    width: 950px;
+    margin: 0 auto;
+}
